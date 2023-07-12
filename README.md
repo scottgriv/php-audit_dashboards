@@ -20,4 +20,4 @@ Connect to database tables in order to display record counts and play audible th
 **Author:** Scott Grivner <br>
 **Email:** scott.grivner@gmail.com <br>
 **Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/php-web_utilities)
+**Reference:** [Main Branch](https://github.com/scottgriv/php-audit_dashboards)
