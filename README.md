@@ -57,9 +57,9 @@ Connect to database tables in order to display record counts and play audible th
 
 ## License
 
-This project is released under the terms of **The Unlicense**, which allows you to use, modify, and distribute the code as you see fit. 
-- [The Unlicense](https://choosealicense.com/licenses/unlicense/) removes traditional copyright restrictions, giving you the freedom to use the code in any way you choose.
-- For more details, see the [LICENSE](LICENSE) file in this repository.
+This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
+- The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
+- For more details, see the [LICENSE](LICENSE) file in this repository. in this repository.
 
 ## Credits
 
